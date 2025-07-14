@@ -1,0 +1,81 @@
+{
+  "source": {
+    "name": "DHS Yearbook of Immigration Statistics 2022",
+    "table": "Table 39",
+    "url": "https://www.dhs.gov/immigration-statistics/yearbook/2022",
+    "extractedDate": "2025-01-15",
+    "notes": "Removals only, excluding returns and expulsions"
+  },
+  "data": [
+    {
+      "year": 2009,
+      "removals": 379739,
+      "president": "Obama"
+    },
+    {
+      "year": 2010,
+      "removals": 382449,
+      "president": "Obama"
+    },
+    {
+      "year": 2011,
+      "removals": 390413,
+      "president": "Obama"
+    },
+    {
+      "year": 2012,
+      "removals": 415579,
+      "president": "Obama"
+    },
+    {
+      "year": 2013,
+      "removals": 432334,
+      "president": "Obama"
+    },
+    {
+      "year": 2014,
+      "removals": 405193,
+      "president": "Obama"
+    },
+    {
+      "year": 2015,
+      "removals": 324428,
+      "president": "Obama"
+    },
+    {
+      "year": 2016,
+      "removals": 332331,
+      "president": "Obama"
+    },
+    {
+      "year": 2017,
+      "removals": 284365,
+      "president": "Trump"
+    },
+    {
+      "year": 2018,
+      "removals": 327608,
+      "president": "Trump"
+    },
+    {
+      "year": 2019,
+      "removals": 347090,
+      "president": "Trump"
+    },
+    {
+      "year": 2020,
+      "removals": 237364,
+      "president": "Trump"
+    },
+    {
+      "year": 2021,
+      "removals": 85783,
+      "president": "Biden"
+    },
+    {
+      "year": 2022,
+      "removals": 108733,
+      "president": "Biden"
+    }
+  ]
+}
